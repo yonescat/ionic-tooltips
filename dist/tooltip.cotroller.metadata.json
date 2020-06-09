@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"TooltipController":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Injectable","line":3,"character":1}}],"members":{"addTooltip":[{"__symbolic":"method"}],"removeTooltip":[{"__symbolic":"method"}],"hideAll":[{"__symbolic":"method"}]}}}}]
